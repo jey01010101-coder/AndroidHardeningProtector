@@ -1,7 +1,7 @@
 pycryptodome>=3.19.0
 pyyaml>=6.0
 androguard>=3.4.0
-apkparser-ag>=0.1.0
+apkparser-ag==0.0.2
 click>=8.1.0
 colorama>=0.4.6
 tqdm>=4.66.0
